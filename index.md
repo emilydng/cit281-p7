@@ -9,4 +9,4 @@ Goals and Outcomes
 
 ```
 
-[My CIT Portfolio](https://github.com/killua-boop/killua-boop.github.io.git)
+[My CIT Portfolio](https://killua-boop.github.io/)
